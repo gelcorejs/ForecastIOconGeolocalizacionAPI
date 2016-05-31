@@ -1,0 +1,18 @@
+{
+  "name": "forecast",
+  "version": "1.0.0",
+  "description": "medidor de temperatura",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "ejs": "^2.3.1",
+    "express": "^4.13.4",
+    "forecastio": "^0.2.0",
+    "zippity-do-dah": "0.0.x"
+  },
+  "author": "gelhex",
+  "license": "MIT"
+}
